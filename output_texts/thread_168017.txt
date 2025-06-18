@@ -1,0 +1,16 @@
+---
+id:          168017
+title:       GA5 Score Not Reflecting in The Page After Deadline
+created_at:  2025-02-21T19:25:35.201Z
+---
+
+[2025-02-21T19:25:35.401Z] Rounaq Biswas (@23f3004238)
+Screenshot 2025-02-22 at 12.41.09 AM
+2940×1912 443 KB
+
+Is this something to worry about?
+
+[2025-02-22T03:16:58.662Z] Carlton D'Silva (@carlton: Regular)
+This is nothing to worry about because as you can see in the Recent saves section, it has your score history. We have your entire submission history because we log that.
+
+Kind regards

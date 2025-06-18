@@ -1,0 +1,56 @@
+---
+id:          171500
+title:       TDS - GA7 - Score missing
+created_at:  2025-04-01T08:33:04.332Z
+---
+
+[2025-04-01T08:33:04.511Z] Gurumurthy (@23f1002510)
+I have submitted GA 7 in TDS multiple times, inspite of this it is showing not submitted. Please inspect
+
+[2025-04-01T09:19:39.649Z] Dhruv Agrawal (@24f1001616)
+@carlton
+
+@POD_TEAM
+how to peer review for GA7 where is the link??
+
+[2025-04-04T06:12:41.834Z] Carlton D'Silva (@carlton: Regular)
+Dont worry about seek portal. GA 7 scores will only get pushed once peer reviews are done.
+
+(roughly 3 days before end term).
+
+Kind regards
+
+[2025-04-05T11:25:42.561Z] Yogesh (@Yogesh1)
+@carlton
+
+@Jivraj
+
+What is to be done if the student in question has not done a question? We are required to fill an answer in the quantitative part. We can’t leave it blank.
+
+[2025-04-08T10:38:40.562Z] Carlton D'Silva (@carlton: Regular)
+Just put zero there. Since all the quantitative answers are positive.
+
+[2025-04-08T12:35:32.096Z] Gurumurthy (@23f1002510)
+Hi Sir, How to get to know about the peer reveiew , till now i have not got any intimation for doing peer review
+
+[2025-04-08T13:32:06.500Z] Carlton D'Silva (@carlton: Regular)
+You were sent an email about it. With the peers to review. It came from the official TDS email.
+
+You were sent an email on the 1st of April.
+
+Kind regards
+
+[2025-04-09T16:15:42.984Z] Shambhavi  (@24f2003130)
+Hi
+@carlton
+sir,
+
+I have received the bonus marks email with 5 additional HTML files for peer review. However, I noticed that one of these files was also included in the initial peer grading email.
+
+Could you please clarify if I should fill out the peer review form for this particular file again, or should I skip it since it has already been graded?
+
+1000041565
+1280×349 87.7 KB
+
+[2025-04-10T05:29:50.411Z] Carlton D'Silva (@carlton: Regular)
+Thanks we have made a correction and sent an email.

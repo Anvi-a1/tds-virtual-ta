@@ -1,0 +1,572 @@
+---
+id:          166816
+title:       Graded Assignments Dashboard Scores Incorrect/Missing
+created_at:  2025-02-11T17:03:20.958Z
+---
+
+[2025-02-11T17:03:21.205Z] HARISH. S (@HARISH.S)
+hello sir this is Harish. i completed and saved the week 2 and week 4 assignment. (didn’t do week 3) but the graded assignment shows it is incomplete and the score is 0 for both the weeks . i am attaching the iages. kindly check and reply soon sir.
+
+image
+1035×466 71 KB
+
+image
+1035×453 27.2 KB
+
+this is for week 4
+
+image
+1678×847 141 KB
+
+image
+1035×481 38.9 KB
+
+image
+463×457 26.9 KB
+
+kindly check on this sir.
+
+[2025-02-11T18:21:52.000Z] Carlton D'Silva (@carlton: Regular)
+Could you send me your email id. thanks.
+
+[2025-02-11T18:46:15.785Z] Divjot Singh (@24ds3000061)
+Hi, the same issue persists for me for GA 2 and 4. I also did not attemp GA 3. Please look into this. My email id: 24ds3000061@ds.study.iitm.ac.in
+
+[2025-02-12T03:23:21.693Z] Revi (@22f2001532)
+My Graded assignment results are also not appearing in the dashboard. My email id is 22f2001532@ds.study.iitm.ac.in
+
+[2025-02-12T05:18:27.095Z] Carlton D'Silva (@carlton: Regular)
+@24ds3000061
+
+@22f2001532
+
+Can you check the dashboard now, I’ve been informed by operations that the scores have been pushed.
+
+GA 4 scores will be a little late to be pushed because there are some manual (i.e. automated using a custom written script) corrections that have to be made to Q4 for students who got Nur-Sultan as their city.
+
+Kind regards
+
+[2025-02-12T05:32:48.000Z] Revi (@22f2001532)
+Thanks Carlton. Now the results are visible in the dashboard.
+
+Thanks
+
+REVI
+
+[2025-02-12T09:43:55.354Z] Anushka Kumar (@22f2000559)
+@carlton
+Sir in my case, in week 2 it is showing “Absent” but I have attempted and saved the answers
+
+Screenshot 2025-02-12 151022
+427×596 28.1 KB
+
+Screenshot 2025-02-12 151101
+1035×434 21 KB
+
+My email ID is 22f2000559@ds.study.iitm.ac.in.
+
+Thank you.
+
+[2025-02-12T10:04:58.164Z] Carlton D'Silva (@carlton: Regular)
+Hi
+@22f2000559
+
+I can confirm that our server did record your marks as 7, we will make a correction in the dashboard. Thanks for letting us know. My sincere apologies for the error.
+
+If the marks on the dashboard are not changed within the next 7 days, please let us know. I will follow it up on my end and try to get the correction pushed as soon as possible.
+
+Kind regards
+
+[2025-02-12T10:06:10.638Z] Anushka Kumar (@22f2000559)
+Thank you so much Sir.
+
+[2025-02-13T06:26:35.949Z] QUMAR CHANDRAGUPT PRIYADARSHI (@spartacus)
+Screenshot 2025-02-13 105611
+251×317 14.2 KB
+
+another embedding
+
+[2025-02-13T06:28:59.121Z] QUMAR CHANDRAGUPT PRIYADARSHI (@spartacus)
+@carlton
+
+Screenshot 2025-02-13 105835
+1140×737 28.5 KB
+
+Sir, In my dashboard i am getting Absent for GA3
+
+my email id : 23f3001731@ds.study.iitm.ac.in
+
+i am not able to submit embeddings more than 1 so i am submitting it in another reply
+
+[2025-02-13T06:46:36.164Z] Anvitha (@AnvithaV)
+Sir, I have attempted the graded assignment 2 and also saved it but my score is showing as absent. Please look into the issue sir.
+
+My email id is 23f1002071@ds.study.iitm.ac.in
+
+graded assignment page
+1886×776 45.5 KB
+
+course dashboard (1)
+1919×828 156 KB
+
+@carlton
+
+@Jivraj
+
+[2025-02-13T12:41:12.084Z] Shailendra Dhakad (@dshail)
+Same issue I’m facing in my dashboard for
+week - 3
+it shows I’m
+absent
+although on portal it is showing my marks.
+
+Please update my dashboard.
+
+E-mail: 22f2000905@ds.study.iitm.ac.in
+
+TDS 2025 Jan GA3
+
+TDS-W3-Results
+2472×1636 313 KB
+
+[2025-02-13T12:42:30.391Z] Shailendra Dhakad (@dshail)
+TDS 2025 Jan GA3-Dashboard
+2750×1328 290 KB
+
+[2025-02-15T04:32:36.973Z] Sengathirsoorian E T (@22f3000370)
+Hello Sir/Mam,
+
+I had created this thread to inform that my marks for week -2 and week-4 graded assignment have not yet been updated and showing in the dashboard. But I have attended it, Please resolve the issue and do the needful actions.
+
+Regards,
+
+Sengathirsoorian E T
+
+(22f3000370@ds.study.iitm.ac.in)
+
+Week -4
+
+Screenshot_20250215-095816
+1080×1852 263 KB
+
+I can’t be able to enclose another screenshot of week-2 ( marks-5) as I was a new user.
+
+[2025-02-15T20:50:32.496Z] 23F3004407 RATANPRIYA SINGH (@23F3004407_RATANPRIY)
+Screenshot (674)
+1920×1080 273 KB
+
+@Carlton
+D’Silva sir can u please see this why it’s given zero, it should be 8 right n in my dashboard it’s showing absent so what i should do ?
+
+[2025-02-16T02:57:22.000Z] Carlton D'Silva (@carlton: Regular)
+On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email.
+
+Kind regards
+
+[2025-02-16T02:59:23.470Z] Carlton D'Silva (@carlton: Regular)
+Dear Students,
+
+On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject
+[TDS Jan 2025] Grade Corrections
+. Please refer to that email.
+
+Kind regards
+
+[2025-02-16T06:31:56.151Z] Carlton D'Silva (@carlton: Regular)
+Please refer to this post
+
+GRADED ASSIGNMENT RESULT NOT SHOWING , kindly check on this
+
+Tools in Data Science
+
+On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email.
+Kind regards
+
+[2025-02-16T07:08:03.000Z] 23F3004407 RATANPRIYA SINGH (@23F3004407_RATANPRIY)
+Okk sir , n sir can u please tell me in which live session u have discussed regarding project becoz till week 3 i have see only n i having confusion in project so i want to see the session of project
+
+[2025-02-16T12:30:31.247Z] Carlton D'Silva (@carlton: Regular)
+This is summary from start to finish + doubt clearing
+
+YouTube
+
+TDS Jan 2025 Live Stream
+
+This is available also in the Jan 2025 Playlist
+
+Week 5 - Session 1 - From scratch to A1(Github, FastAPI, Docker, and Project
+
+Week 5 - Session 3 - From A1 to Function Calling and Intelligent Self - Correcting Code
+
+Kind regards
+
+[2025-02-16T15:42:43.000Z] 23F3004407 RATANPRIYA SINGH (@23F3004407_RATANPRIY)
+Sir can u please extend the deadline till Tommorow becoz i have done half of the project lecture accordingly to what u have send n i’m still doing that n I won’t want to loose my marks i where doing since one week but that is not working n now i have started again doing this . So please sir i just need time till Tommorow.
+
+[2025-02-16T18:36:33.302Z] Pranaav (@23f1002223)
+I have completed and checked and even saved the assignment for GA2 and GA3, however it says that I was absent for both GA2 and GA3.
+
+Please check my assignment and ensure that it has been corrected, since I have checked the website and I had submitted.
+
+Thank you
+
+[2025-02-17T07:28:26.892Z] Chinmay Kapoor (@23f2005283)
+Mine too but only for GA2. I have submitted and ensured it was checked and saved the assignment on Ex website but it shows that I was absent.
+
+[2025-02-18T04:24:12.511Z] Carlton D'Silva (@carlton: Regular)
+@23f2005283
+
+@23f1002223
+
+Can you check your dashboard (not your seek portal, dashboard is where all your course cards are visible). I have been informed by Operations that the scores have been pushed for week 1 to week 4 (including the bonus mark for discourse post in week 4)
+
+Kind regards
+
+[2025-02-18T05:04:58.160Z] Carlton D'Silva (@carlton: Regular)
+Please check dashboard, I have been told by operations that the scores have been pushed for GA1, GA2, GA3 and GA4
+
+Kind regards
+
+[2025-02-18T05:18:27.359Z] Sakthivel S (@23f2000237)
+Have they pushed the bonus marks too? The GA4 mark on my dashboard does not have that extra 1 mark.
+
+however my roll number was in the list Anand sir posted a few days back.
+
+[2025-02-18T05:29:49.175Z] Pranaav (@23f1002223)
+image
+434×416 19 KB
+
+Other than the GA2 and GA3 the scores are showing sir.
+
+[2025-02-18T05:38:11.568Z] Carlton D'Silva (@carlton: Regular)
+@23f2000237
+
+You got 80 in ga4. And the bonus makes it to 90.
+
+Thats what we have on our system.
+
+Kindly post a screenshot of your dashboard if 90 is not showing for GA4
+
+[2025-02-18T05:47:58.257Z] Carlton D'Silva (@carlton: Regular)
+@23f1002223
+
+We have scores for you. We will make sure its updated.
+
+Thanks for notifying.
+
+Kind regards
+
+If they have not changed in 7 days please get in touch with us.
+
+[2025-02-18T05:54:47.510Z] Sakthivel S (@23f2000237)
+IMG_0644
+1170×981 116 KB
+
+It is still 80
+
+[2025-02-18T06:02:57.835Z] Carlton D'Silva (@carlton: Regular)
+@23f2000237
+Thanks for the screenshot. I will check with operations.
+
+Kind regards
+
+[2025-02-18T07:17:24.785Z] Pranaav (@23f1002223)
+Thank you sir, I will wait for the changes to take place.
+
+[2025-02-18T07:45:48.778Z] Chinmay Kapoor (@23f2005283)
+Screenshot 2025-02-18 at 1.14.23 PM
+650×652 40.5 KB
+
+Here sir for me it is showing absent for GA2 but for others the score is showing.
+
+[2025-02-18T08:01:42.303Z] Anushka Kumar (@22f2000559)
+@carlton
+Sir, Now it’s showing “Absent” in both Week 1 & 2 GA :
+
+Screenshot 2025-02-18 133024
+420×434 19.4 KB
+
+My email ID is 22f2000559@ds.study.iitm.ac.in.
+
+Thank you.
+
+[2025-02-18T08:07:15.680Z] Carlton D'Silva (@carlton: Regular)
+@22f2000559
+
+Dont worry we have your correct scores. We have done spot checks to make sure of the data consistency. We are having some technical difficulties with getting the evaluations which are on the TDS server to the Portal Operations team. Kindly bear with us while we work out the problem.
+
+(Its a data cleaning and packaging issue - a typical TDS problem
+)
+
+[2025-02-18T08:08:48.788Z] Anushka Kumar (@22f2000559)
+Okay sir, no worries then. Thank you for the explanation.
+
+[2025-02-18T12:54:49.871Z] Harsh Kumar (@22f3001316)
+@carlton
+sir previously i had my graded assignment score for week 1 but now it just changed to absent ,please look into it and do the needful.
+
+[2025-02-18T13:35:49.734Z] Tanya kamboj (@21f3000745)
+i have attempted all weeks. It shows absent  in week3. please look into this.
+@Jivraj
+
+@carlton
+
+@Saransh_Saini
+
+[2025-02-18T14:03:47.106Z] Gurumurthy (@23f1002510)
+Hi Team,
+
+I have attended the Graded Assignment for Tools in Data Science for the week 4 and the saved scores says i have got 2 marks. ( TDS 2025 Jan GA4 - Data Sourcing).
+
+But in the evaluation it says i have not submitted the GA4 from this course. Can you please clarify the same.
+
+Attached the screenshots for both
+
+image
+1854×888 107 KB
+
+[2025-02-18T15:36:06.647Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Hi Tanya,
+
+This is problem with few more students We have identified this issued and we are working on it.
+
+Thanks
+
+[2025-02-18T15:46:18.646Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Hi
+@23f1002510
+
+We have identified this problem for few more students and we are working on correcting it.
+
+Thanks and regards
+
+[2025-02-18T15:48:21.089Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+@23f2005283
+
+@22f3001316
+,
+
+We are working on correcting graded assignment marks, this is issue with some more students. It will be corrected.
+
+Thanks and Kind regards
+
+[2025-02-18T16:43:03.627Z] ParamanandaSamantara (@22f3000935)
+Previously I was getting shown that my marks of assignment 1 to be 77.5 but now I am getting shown that as 0 so please have a look upon that if it is some kind of a glitch or something.
+
+@carlton
+
+@Jivraj
+
+[2025-02-19T00:03:12.000Z] Pathipati Srilakshmi (@23f1000104)
+My week 1 score is showing absent in TDS from yesterday. Earlier it was showing 87.5 suddenly what happened I don’t understand its showing as absent… I have submitted my week 1 assignment before the deadline. Is it the same for every one or only for me… please some one clarify
+
+Screenshot_20250218_193224
+1080×2408 213 KB
+
+[2025-02-19T05:24:41.876Z] Carlton D'Silva (@carlton: Regular)
+@23f1000104
+I have checked the backend server, we have your week 1 score as 87.5.
+
+Dont worry we will fix it. Thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T05:27:41.778Z] Carlton D'Silva (@carlton: Regular)
+@22f3000935
+I can confirm that your score 77.5 was after midnight of the deadline. Your actual score before the deadline it was 70.
+
+Screenshot 2025-02-19 at 10.57.15 am
+2624×358 28.8 KB
+
+We will fix it. Thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T05:29:01.740Z] Carlton D'Silva (@carlton: Regular)
+@23f1002510
+We can can confirm our backend shows that you got 20.
+
+We will fix it. Thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T05:31:12.316Z] Carlton D'Silva (@carlton: Regular)
+@21f3000745
+
+I can confirm that your week 3 score is 63.2 on the backend server.
+
+Thanks for brining it to our attention. We will fix it.
+
+Kind regards
+
+[2025-02-19T05:32:36.800Z] Carlton D'Silva (@carlton: Regular)
+@22f3001316
+I can confirm that it is 90 for week 1 on our back end server.
+
+It will be corrected thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T05:34:13.604Z] Carlton D'Silva (@carlton: Regular)
+@23f2005283
+Hi I can confirm that week 2 score is 90 on our back end server. We will fix it thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T05:35:58.830Z] Carlton D'Silva (@carlton: Regular)
+@23f1002223
+I can confirm that week 2 and 3 are 55 and 36.8 respectively on our back end server.
+
+We will fix it. Thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:37:05.383Z] Carlton D'Silva (@carlton: Regular)
+@23f2005283
+
+I can confirm that week 2 is 90 on our server.
+
+We will fix it on dashboard. Thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:38:15.959Z] Carlton D'Silva (@carlton: Regular)
+@23f2000237
+I can confirm that on our back end server it is 90.
+
+We will fix it in the dashboard. Thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:41:30.390Z] Carlton D'Silva (@carlton: Regular)
+@22f2000559
+We can confirm that your week 1 and week 2 scores are 57.5 and 70 respectively on the back end server. We will fix it in the dashboard and thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:42:56.655Z] Carlton D'Silva (@carlton: Regular)
+@23f2000237
+I can confirm that your ga4 is 90 on our back end server. We will fix it in dashboard and thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:45:48.182Z] Carlton D'Silva (@carlton: Regular)
+@23F3004407_RATANPRIY
+I can confirm that your GA3 score is 84.2 on our backend server. We will push it to dashboard. Thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T05:47:48.604Z] Carlton D'Silva (@carlton: Regular)
+@22f3000370
+I can confirm that on the back end server we have your scores for week 2 and week 4 as 40 and 80 respectively. We will push these to the dashboard. Thanks for notifying us.
+
+Kind regards
+
+[2025-02-19T05:49:37.987Z] Tanya kamboj (@21f3000745)
+But sir my last scored marks was 7.5 when i submitted. Then how my score is 63.2.
+@carlton
+
+[2025-02-19T06:27:24.793Z] Carlton D'Silva (@carlton: Regular)
+@dshail
+We have your weekly scores as
+
+75.0, 100.0, 89.5, 70.0 on our back end server
+
+We will update the dashboard and thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T06:30:42.667Z] Carlton D'Silva (@carlton: Regular)
+because the previous score that you received was what you scored after the deadline. We had accidentally given students marks to students who submitted after the deadline. Here is the evidence.
+
+Screenshot 2025-02-19 at 11.59.39 am
+2630×288 17.6 KB
+
+Kind regards
+
+[2025-02-19T06:33:17.340Z] Carlton D'Silva (@carlton: Regular)
+@24ds3000061
+I can confirm that you have 20 and 30 for weeks 2 and week 4 on our back end server. We will fix it in dashboard and thanks for brining it to our attention.
+
+Kind regards
+
+[2025-02-19T06:35:04.618Z] Carlton D'Silva (@carlton: Regular)
+@HARISH.S
+I can confirm that our back end server has recorded these scores for you 87.5, 65, 90 for week 1 , 2 and 4
+
+We will fix it in the dashboard, and thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T06:38:04.191Z] Carlton D'Silva (@carlton: Regular)
+@AnvithaV
+I can confirm that you have
+
+5.0, 55.0, 73.7, 100.0 in weeks 1,2 ,3,4 respectively on our backend server.
+
+We will fix it in dashboard, thanks for bringing it to our attention.
+
+Kind regards
+
+[2025-02-19T11:01:46.636Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+
+
+[2025-02-19T14:20:22.651Z] thakur vishalkumar vinod (@23f2004320)
+@carlton
+sir,
+
+I recently checked my marks for Tool in Data Science and noticed a major discrepancy. In the subject dashboard, my marks are shown as 100  , but in the main Dashboard, I have been awarded absent .
+
+Thakur Vishalkumar Vinod
+
+23f2004320
+
+Screenshot 2025-02-18 182401
+1574×450 32.2 KB
+
+Screenshot 2025-02-18 182446
+1866×668 130 KB
+
+[2025-02-19T16:17:07.472Z] Carlton D'Silva (@carlton: Regular)
+@23f2004320
+
+I have checked the backend server. The actual score is 85 in Module 1.
+
+Ignore seek portal, because scores are evaluated externally on our server. Those scores on seek portal are just from the placeholder question that asked whether you saw GA1 and attempted it. It has no bearing on your actual marks.
+
+The actual score will be in the dashboard soon.
+
+Kind regards.
+
+[2025-02-19T19:35:55.162Z] Pranaav (@23f1002223)
+Sir for the GA3 the saved score says its 4.5, total is 9.5 so my total should be 47.4.
+
+[2025-02-20T02:25:14.283Z] Carlton D'Silva (@carlton: Regular)
+@23f1002223
+
+Screenshot 2025-02-20 at 7.52.54 am
+2622×274 23.1 KB
+
+According to your submission history your last submission before the deadline was 3.5 (i.e. your score would be 36.8 out of 100)
+
+Kind regards
+
+[2025-02-20T10:23:24.676Z] Sakthivel S (@23f2000237)
+@carlton
+, the error has been rectified, and the corrected mark has now been accurately reflected in the system.
+
+[2025-02-20T18:46:26.895Z] Shubham Shrestha (@shubham6)
+w2tdse
+1100×886 50.3 KB
+
+Sorry for the late upload but as you can see in the screenshot i had submitted answers for TDS Week 2 graded assignment but it shows 0 both here and in current courses tab.
+
+I did reload the recent tab before uploading and for tds ga submission i submit and keep the tab open until the timer runs out.
+
+[2025-02-21T03:42:15.854Z] Carlton D'Silva (@carlton: Regular)
+@shubham6
+I have checked the backend server. It does show your score as 8 for GA2, so we have the correct score for you.
+
+Can you send me a screenshot of your dashboard (where your course cards are) thanks.
+
+Kind regards

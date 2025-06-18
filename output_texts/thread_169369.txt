@@ -1,0 +1,211 @@
+---
+id:          169369
+title:       Programming Quiz 1 in Student Dashboard (label for ROE scores) - showing absent or incorrect
+created_at:  2025-03-07T16:51:48.746Z
+---
+
+[2025-03-07T11:15:02.177Z] Hisham Kadambot (@23f1002630)
+image
+433×471 21.8 KB
+
+I was attend the roe. Why is it showing as absent?
+
+@carlton
+
+@Jivraj
+
+@s.anand
+
+[2025-03-07T11:16:13.673Z] Shambhavi  (@24f2003130)
+Hi
+@carlton
+
+@Jivraj
+sir,
+
+I wanted to bring to your attention that, although as you are already aware that I was present for the ROE and successfully submitted my exam, my dashboard currently reflects my status as “Absent.”
+
+I have attached a screenshot for your reference. I assume this might be a backend issue or that the scores are still being updated. Could you kindly look into this and confirm?
+
+Thank you
+
+1000032712
+1080×1032 90.3 KB
+
+[2025-03-07T11:21:02.161Z] Hisham Kadambot (@23f1002630)
+image
+444×478 22.1 KB
+
+I was attend the roe. Why is it showing as absent?
+
+@carlton
+
+@Jivraj
+
+@s.anand
+
+[2025-03-07T11:25:00.051Z] Irina Agastin (@23f2004169)
+I am experiencing the same issue. I ensured that my submission was completed and saved before the deadline.
+@carlton
+
+@Jivraj
+
+[2025-03-07T11:31:48.998Z] Shirin Fathima Shabeeb  (@22f3001272)
+IMG_20250307_152827
+1012×1136 91 KB
+
+I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent
+
+[2025-03-07T13:36:29.140Z] PRAKHAR PANDEY (@23f1002709)
+
+
+[2025-03-07T15:18:43.798Z] Deveshu Pathak (@22f3000657)
+Dear Sir,
+
+I would like to bring this to your attention that even though I submitted the ROE  multiple times, the dashboard is showing absent.
+
+I hope the issue will be resolved at earliest as I am not the only one facing this issue
+
+image
+447×486 22.3 KB
+
+[2025-03-07T15:31:15.925Z] Sagandeep Kaur (@Sagan)
+Are the marks shown after adding bonus or before?
+
+[2025-03-07T16:01:53.230Z] Sudip Dey (@23f3004246)
+Dear Sir,
+
+I would like to bring this to your attention that even though I submitted the ROE multiple times, the dashboard is showing absent.
+
+I hope the issue will be resolved at earliest as I am not the only one facing this issue
+
+Screenshot 2025-03-07 212639
+524×386 47.4 KB
+
+[2025-03-07T16:51:48.973Z] Md Ayan Arshad (@22f3000985)
+Hey, It’s showiing Absent for Programming Quiz 1, But i submitted it successfully.
+
+Is this because of any glitch? Anyone of you having the same error?
+
+[2025-03-07T17:07:36.673Z] Vedant Bhanushali (@Vedant22)
+Sir even for me it is showing absent , I had attended roe and submitted the answer.
+
+[2025-03-07T17:12:08.627Z] thakur vishalkumar vinod (@23f2004320)
+I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent.
+@carlton
+
+@Jivraj
+
+roll no. 23f2004320
+
+Screenshot 2025-03-07 224052
+416×575 29.7 KB
+
+[2025-03-07T18:26:21.071Z] Arya Agrahari  (@22f3002771)
+@Jivraj
+
+@carlton
+
+I submitted my exam with perfect 10 score I even went to the technical meet you guys kept and I asked that my score it showing 5/10 but I used the hacking procedure can you please tell what is my score and he said that we will take your highest score only and don’t worry it’s not 5, then I got a invite for the meet you guys kept for those who scored perfectly in the roe, after all this I don’t understand how is my score 60 percent.
+
+[2025-03-08T04:00:12.345Z] Vicky Kumar (@Algsoch)
+same problem with  me
+
+image
+382×386 19 KB
+
+[2025-03-08T07:01:44.857Z] Mugundhan (@23f2005141)
+image
+419×365 15.8 KB
+
+I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent.
+
+roll no .23f2005141
+
+[2025-03-08T07:03:08.686Z] Mugundhan (@23f2005141)
+image
+475×307 8.78 KB
+
+this is my roe marks
+
+roll no 23f2005141
+
+[2025-03-08T09:12:59.101Z] Vatchala (@22ds3000103)
+Sir even for me it is showing absent , I had attended roe and submitted the answer.
+
+[2025-03-08T09:58:54.936Z] S Smriti (@23f2000599)
+I am facing the same issue sir and it’s really scaring me now cause I put so much effort into it ang got 7/10 and now it is showing absent even though i submitted several times
+
+[2025-03-08T11:42:00.165Z] Avinash Kumar (@22f2000008)
+image
+474×646 36.2 KB
+
+@carlton
+
+@Jivraj
+
+Sir I gave ROE TDS exam and even submitted it  and got many correct answer  but it is showing absent in my dashboard.
+
+[2025-03-09T05:51:02.393Z] Gurumurthy (@23f1002510)
+Hi Team, I have appeared for ROE TDS 2025 and have secured 3 marks, but my score is shown as zero in the dashboard.
+
+Please clarify.
+
+image
+930×584 42.8 KB
+
+[2025-03-09T07:35:00.221Z] Harshita Juneja (@junejaharshita)
+@carlton
+
+@Jivraj
+My result is showing absent please clarify it.
+
+[2025-03-09T07:46:33.021Z] Ishan Mittal (@23f2001682)
+I am experiencing the same issue. I ensured that my submission was completed and saved before the deadline.
+@carlton
+
+@Jivraj
+
+[2025-03-09T11:22:41.366Z] Manit Bohra (@ItsMeAlex)
+24F1001631 here. It is also showing absent for me. I had submitted before the time limit and also after the time limit after hacking it(wasn’t sure if it was allowed but decided to try it nevertheless)
+
+I feel I should atleast receive the marks for which I had submitted within the time limit.
+
+My roll number is 24F1001631.
+
+image
+1430×253 11 KB
+
+[2025-03-09T13:10:30.449Z] Srinivas Chilukuri (@shriaviator: Community-TA)
+@23f1002510
+
+Topic moved to the appropriate category in order to get faster responses.
+
+Please make it easier for others to help you, by ensuring that topics are created in the correct categories.
+
+[2025-03-09T14:05:15.712Z] Carlton D'Silva (@carlton: Regular)
+We have not yet updated the scores for ROE (there are roughly 130 students affected by the previous update). So just wait till it gets pushed by operations (most likely Tuesday). I can assure you that we have the right scores on our server, there is just an issue when “transporting” those scores over to the operations team, which we have now rectified and since scores are batch processed it will happen over night during a server update.
+
+Bottom line: wait till Tuesday
+
+Both bonus and your actual roe scores will reflect on dashboard by then.
+
+If not let us know
+
+Kind regards.
+
+[2025-03-09T14:06:19.783Z] Carlton D'Silva (@carlton: Regular)
+Scores have not yet been pushed for everyone. You have to wait till operations push it (most likely Tuesday).
+
+Kind regards
+
+[2025-03-09T15:50:03.899Z] Chinmay Kapoor (@23f2005283)
+I am experiencing the same issue
+
+[2025-03-11T22:33:17.038Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Hi
+@22f3000657
+
+There were some problems with ROE marks, will check with team if updated scores have been pushed.
+
+Kind regards

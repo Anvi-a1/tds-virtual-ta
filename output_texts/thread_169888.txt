@@ -1,0 +1,187 @@
+---
+id:          169888
+title:       GA7 - Data Visualisation - Discussion Thread [TDS Jan 2025]
+created_at:  2025-03-14T15:47:52.827Z
+---
+
+[2025-03-14T15:47:53.036Z] Carlton D'Silva (@carlton: Regular)
+Dear Learner,
+
+This is the discussion thread for
+Graded Assignment 7
+. Please post any queries related to it here.
+
+Deadline:
+2025-03-26T18:29:00Z
+
+[2025-03-14T15:48:44.867Z] Carlton D'Silva (@carlton: Regular)
+
+
+[2025-03-14T15:49:06.024Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+
+
+[2025-03-18T18:40:18.038Z] Abhinav (@AbhinavOhri)
+Is it compulsory to use microsoft powerpoint? Can we use google slides?
+
+[2025-03-19T03:31:40.631Z] Carlton D'Silva (@carlton: Regular)
+We will be using scripts to check the submissions. You will have to use PowerPoint.
+
+Kind regards
+
+[2025-03-19T18:43:36.574Z] Shreehari Anbazhagan (@23ds3000002)
+Hi
+@carlton
+,
+
+I was working on GA7 as part of Task 4 in 7.1. In task 4.Sheet1, the columns include Series ID, Item, Year, Month, and Value. While I could extract Series ID and Item, I couldn’t locate Year, Month, or Value in the dataset. Could someone please assist me with this?
+
+image
+1393×657 67.8 KB
+
+[2025-03-19T20:59:13.713Z] Syed Yousuf Quli (@21f3000766)
+There is another dataset provided for the other records.
+
+[2025-03-19T23:10:44.478Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+image
+1227×791 78.2 KB
+
+Monthly Price Indices file have those columns.
+
+[2025-03-20T15:38:46.618Z] Vedant Baburao Kornule (@23f2004313)
+@
+Jivraj
+
+In the GA 7.1 part it is said that we need data of which columns are
+
+but the dataset provided has no column named “Item”
+
+[2025-03-20T16:10:44.310Z] Shreehari Anbazhagan (@23ds3000002)
+Thanks a lot for pointing out and sorry it’s my bad missed it.
+
+[2025-03-20T16:13:35.023Z] Shreehari Anbazhagan (@23ds3000002)
+Item is there in other sheet we might have to join them to get items.
+
+[2025-03-20T16:52:36.384Z] Vedant Baburao Kornule (@23f2004313)
+We have to extract all id’s and their respective item from other sheet and add in first sheet with respect to id’s .
+
+[2025-03-22T11:48:58.353Z] Anushka Kumar (@22f2000559)
+@carlton
+Sir I don’t have Microsoft PowerPoint. What should I do ?
+
+[2025-03-22T12:12:46.000Z] Carlton D'Silva (@carlton: Regular)
+Use the free version on Microsoft 365
+
+[2025-03-24T09:01:20.720Z] Nelson Jochim DSouza (@Nelson)
+Below items don’t have prices.
+
+PCU3254123254127111
+
+Anticoagulants, hemostatics, and digitalis preparations
+
+PCU3254123254127114
+
+Calcium channel blockers
+
+PCU325412325412MM
+
+Miscellaneous receipts
+
+PCU325412325412D112OC
+
+Other digestive or genito-urinary preparations, over-the-counter
+
+PCU325412325412D113
+
+Antacids
+
+PCU325412325412SS
+
+Secondary products
+
+PCU3254123254127112
+
+ACE inhibitors
+
+Some items don’t have prices for all 24 months.
+
+Although the assignment says 24 months (I assumed 2023 January to 2024 December) data, many items have prices for 2025 Jan as well.
+
+Monthly Price Indices for Segments (Two-year data)
+
+Shall I delete the records for which price is not available?
+
+image
+1290×648 53.1 KB
+
+@carlton
+
+@Jivraj
+
+[2025-03-24T12:03:28.613Z] Anushka Kumar (@22f2000559)
+How to give the access to power point slides with the edit option ?
+
+[2025-03-24T15:32:12.298Z] Arjun Dwarakesh Janarthanan (@23f1001611)
+@carlton
+Can you please advise regarding the ga.7.2 as the The current top 5 countries by GDP in 2014 from the dataset are actually aggregated economic groups (not individual countries). can i proceed with that or I need to filter only the individual countries
+
+[2025-03-26T16:51:13.180Z] Tanya kamboj (@21f3000745)
+once i submitted the answers. but when i clicked on edit response and it deleted all the submitted answers. What to do in this case
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+[2025-03-27T00:17:26.595Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+
+
+[2025-03-27T02:50:49.238Z] Carlton D'Silva (@carlton: Regular)
+Hi Tanya,
+
+Both you responses have been recorded. So it has not been deleted. Its just the way google forms works, it does not reload your previous responses.
+
+Kind regards
+
+[2025-03-27T02:51:40.362Z] Carlton D'Silva (@carlton: Regular)
+The question asked for top 5 countries. So that would be the approach for this question, not aggregated economic groups.
+
+[2025-04-09T16:17:47.791Z] Shambhavi  (@24f2003130)
+Hi
+@carlton
+sir,
+
+I have received the bonus marks email with 5 additional HTML files for peer review. However, I noticed that one of these files was also included in the initial peer grading email.
+
+Could you please clarify if I should fill out the peer review form for this particular file again, or should I skip it since it has already been graded?
+
+1000041565
+1280×349 87.7 KB
+
+[2025-04-09T17:20:35.560Z] Carlton D'Silva (@carlton: Regular)
+Hi Shambhavi, Thanks for the update. We will look into it.
+
+Thanks once again
+
+[2025-04-10T07:14:42.624Z] Shambhavi  (@24f2003130)
+Sir,
+
+In case we are not provided access to view their respective sheets, we would have no option but to either leave the column blank or mark it as 0. However, if others have marked it differently based on their available information, there is a possibility that our responses may vary — potentially exceeding the permissible variance limit of ±33%.
+
+In such a scenario, would this mean we would not be eligible for the bonus?
+
+Additionally, it would be really helpful if a uniform approach or standard marking could be communicated for such cases where access is not granted. This would ensure consistency across all submissions and avoid discrepancies arising from random or subjective entries, which seems to be happening currently.
+
+[2025-04-10T07:32:35.000Z] Carlton D'Silva (@carlton: Regular)
+If you are not provided access, contact the peer. Their email is there in the html file. It’s in the peers interest
+and
+yours. That’s an important aspect of GA7, it’s to get people to work together and collaborate.
+
+Peer reviews like the real world is going to be messy. The way to reduce the messiness is to communicate with one another.
+
+[2025-04-11T05:26:32.693Z] Dhruv Agrawal (@24f1001616)
+@carlton
+
+sir can you please clarify what do we have to write in google form if there is no submission?
+
+[2025-04-11T05:48:24.000Z] Carlton D'Silva (@carlton: Regular)
+You have two options. Get in touch with the peer (you have their email address), this is the recommended approach. Or you could give them zero because you were not able to evaluate their submission.

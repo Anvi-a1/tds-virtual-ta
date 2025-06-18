@@ -1,0 +1,94 @@
+---
+id:          169045
+title:       Project 2 - TDS Solver - Shared Data Pool
+created_at:  2025-03-03T07:17:32.655Z
+---
+
+[2025-03-03T07:17:32.847Z] Andrew David (@23f1002382)
+Project 2 - TDS Solver - Discussion Thread
+
+Creating this Thread to share answers and questions from your respective assignments
+
+Why?
+
+If we can Train the LLM with these Questions already, we can easily do well?
+
+Too many Questions for LLM
+
+True we can use embeddings, map that stored in-system dictionary and use relevant questions from in-system data to send as context with answer
+
+What We need from YOU 🫵🏽
+
+Get to scraping your respective Graded Assignments and post the it?
+
+How?
+
+If answers are saved, Just Print (Ctrl+P) and save pdf, not really if this would work
+
+If you had saved code for each question, send the saved code and with a docstring as the question , This would be useful
+
+Where?
+
+github.com/ANdIeCOOl/TDS-Project2-QuestionBank
+
+README.md
+
+main
+
+# TDS-Project2-QuestionBank
+Question Bank for all TDS assignments
+
+# Requested format
+## Student Assignments Directory Structure
+
+Each student has a folder named with their roll number. Inside each student's folder, there are multiple assignment folders (`Assignment_X`). Each assignment contains:
+- A `.txt` file with the question statement.
+- A corresponding `.py`, `.sh`, or `.js` file for the solution.
+
+### Example Directory Structure
+RollNo_12345/
+├── Assignment_1/
+│   ├── Q1.txt    # Question for Q1
+│   ├── Q1.py     # Solution in Python
+│   ├── Q2.txt    # Question for Q2
+│   ├── Q2.sh     # Solution in Bash
+│   ├── Q3.txt    # Question for Q3
+│   ├── Q3.js     # Solution in JavaScript
+├── Assignment_2/
+
+This file has been truncated.
+show original
+
+Please note, Please send the code it would make the LLM more idk “better”
+
+Cheers,
+
+Andrew out.
+
+@all
+
+[2025-03-03T07:20:38.141Z] Andrew David (@23f1002382)
+This time I’ll create a functioning script way before deadline for everyone to use .
+
+[2025-03-03T11:21:09.094Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Hi
+@23f1002382
+
+Great initiative, will be happy to see lot of PR’s on your repo.
+
+[2025-03-03T11:45:57.715Z] Andrew David (@23f1002382)
+Jivraj:
+
+e, will be happy to see lot of PR’s on your re
+
+Will
+
+Hopefully
+
+…
+
+[2025-03-04T08:58:05.322Z] Aniruddha Mukherjee (@23f1003186)
+Already did a PR although it was a minor formatting one xDD
+
+[2025-03-04T09:29:48.657Z] Andrew David (@23f1002382)
+yeah thanks that helped a lot actually

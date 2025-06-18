@@ -1,0 +1,18 @@
+---
+id:          162425
+title:       TDS calendar link not found
+created_at:  2025-01-12T09:33:00.012Z
+---
+
+[2025-01-12T09:33:00.181Z] Sahil Raj  (@23f3001764)
+where we can find tools in data science calendar link I cannot find it in my course tab?
+
+[2025-01-12T12:58:00.008Z] Carlton D'Silva (@carlton: Regular)
+Hi Sahil,
+
+Please find it at the following location.
+
+Screenshot 2025-01-12 at 18.25.31
+2474×1306 330 KB
+
+Kind regards

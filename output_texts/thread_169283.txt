@@ -1,0 +1,480 @@
+---
+id:          169283
+title:       Graded assignment 6
+created_at:  2025-03-06T13:48:38.931Z
+---
+
+[2025-03-02T11:45:12.668Z] Lovepreet Singh (@24f2006061)
+The answer choices for questions 1 and 2 in graded assignment 6 are quite confusing. Both questions are single-select, yet three out of the four options are correct in each case. I’m unsure whether to choose one of the correct options or if the question is actually asking for the incorrect one. Could someone please clarify?
+
+@carlton
+
+[2025-03-02T11:57:04.636Z] Sarang Tambe (@23f2005138)
+@Jivraj
+
+@Saransh_Saini
+
+I have similar concern
+
+For Q1, I used the following code:
+
+print(f'Pearson correlation for Karnataka between price retention and column')
+kk = df[df['State'] == 'Karnataka']
+for col in ['Mileage (km/l)', 'Avg Daily Distance (km)', 'Engine Capacity (cc)']:
+pearson_corr = kk['price_retention'].corr(kk[col])
+print(f'\t{col:25} : {pearson_corr:.2f}')
+
+And got the following output:
+
+Pearson correlation for Karnataka between price retention and column
+Mileage (km/l)            : 0.03
+Avg Daily Distance (km)   : -0.06
+Engine Capacity (cc)      : -0.04
+
+Whereas options are below where none of them are correct.
+
+image
+281×219 9.1 KB
+
+Whereas for Q2 (Punjab and Yamaha) I used the following code:
+
+print(f'Pearson correlation for Punjab and Yamaha between price retention and column')
+pb = df[(df['State'] == 'Punjab') & (df['Brand'] == 'Yamaha')]
+for col in ['Mileage (km/l)', 'Avg Daily Distance (km)', 'Engine Capacity (cc)']:
+pearson_corr = pb['price_retention'].corr(pb[col])
+print(f'\t{col:25} : {pearson_corr:.2f}')
+
+and got the following answers:
+
+Pearson correlation for Punjab and Yamaha between price retention and column
+Mileage (km/l)            : 0.24
+Avg Daily Distance (km)   : -0.06
+Engine Capacity (cc)      : -0.08
+
+The options for Q2 are given below and 2 of them are correct (AvgDistance and Mileage).
+
+image
+278×216 9.19 KB
+
+[2025-03-03T18:06:51.395Z] Abhinav (@AbhinavOhri)
+I used a python script to get the solution to quesiton 1 of week 6 graded assignment. It matches three options. Is this a bug or like we then need to analyze using the pearson coefficient to determine which option is the correct one
+
+image
+1383×263 25 KB
+
+[2025-03-04T10:11:22.975Z] Carlton D'Silva (@carlton: Regular)
+@24f2006061
+We are looking into it. We will update based on our analysis. Thanks for letting us know.
+
+Kind regards
+
+[2025-03-06T13:48:39.245Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Please post any questions related to
+Graded Assignment 6 - Data Analysis
+
+Please use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test.
+
+Deadline
+2025-03-15T18:30:00Z
+
+[2025-03-06T13:49:29.690Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+
+
+[2025-03-07T17:12:28.199Z] Wasim Ansari (@24ds3000090)
+Dear Sirs, Can we have some response on these issues related particularly to the questions 1 and 2 of Graded Assignment 6. It looks like multiple options are correct in the given options. Any guidance or hint, on how to arrive at the right answer will be helpful. Thanks and regards.
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+[2025-03-08T15:17:03.743Z] Shashannk (@23f2003413)
+Yeah…Even I am facing the same issue. Out of the 4 options provided, 3 options are correct in my case both for Q1 & Q2, but both these questions are single-choice questions. Kindly look into it and help us out
+@carlton
+!
+
+[2025-03-10T07:56:14.493Z] RAJ K BOOPATHI (@23ds2000092)
+I guess for both Q1 & Q2, we need to find the option that is having stronger correlation (positive/negative). Please correct me if I am wrong.
+
+[2025-03-11T06:42:12.463Z] Pradeep Mondal (@21f2000709)
+Any updates on these? I am too facing the same issue.
+
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+[2025-03-11T17:42:32.616Z] Udipth (@Udipth)
+In GA6 for first 2 questions 3 out of 4 options are correct. Even the question is not clearly asking anything. Kindly suggest are we supposed to select the wrong one
+
+image
+2083×575 47.6 KB
+
+[2025-03-12T03:42:05.053Z] Shashannk (@23f2003413)
+Kindly update us regarding the status of Q1 & Q2
+@carlton
+
+@Jivraj
+
+[2025-03-12T11:29:04.042Z] LAKSHAY (@lakshaygarg654)
+@Jivraj
+
+@carlton
+
+@Saransh_Saini
+
+Dear TDS Team,
+
+There are multiple issues in Graded Assignment 6 that require urgent attention:
+
+Questions 1 and 2, along with their options, are ambiguous.
+
+In Questions 3 and 4, I am unable to obtain an exact answer that matches any of the given options, despite trying multiple approaches, including the Excel regression method and other models in a Google Colab file.
+
+The data for Question 10 is missing. I attempted to run the shapefile in QGIS, but it resulted in an error. Additionally, I searched for the shapefile of New York roads on official websites, but their servers are currently under maintenance.
+
+The assignment deadline is approaching, but these issues remain unresolved. Kindly look into this matter at the earliest and provide a resolution as soon as possible.
+
+Thank you for your support.
+
+[2025-03-12T13:30:00.912Z] Pradeep Mondal (@21f2000709)
+Yes, there are no specifics in Q1 to Q4 and are quite ambiguous.
+
+For instance:
+
+forecast the 2027 resale value of the Hero - HF Deluxe in Gujarat, using historical data.
+
+but is this talking about the average resale value as no input features are specified?
+
+[2025-03-12T14:11:15.210Z] LAKSHAY (@lakshaygarg654)
+Let’s wait for their response.
+
+I submitted nearby option for Q3 and Q4
+
+[2025-03-12T14:36:43.739Z] Vivek Rekha Ashoka (@23f3001745)
+@Jivraj
+
+@carlton
+
+@Saransh_Saini
+
+Can you please provide any update ASAP as the deadline for this GA coincides with Quiz 2. With many ambiguities unresolved it’s hard to solve this and study for Quiz 2 (and do offline college work even though that’s not your problem).
+
+Thanks
+
+[2025-03-13T09:47:03.906Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Hi
+@all
+
+Question intends you to select most correlated one.
+
+Select option which is absolute highest.
+
+[2025-03-14T14:30:12.725Z] M v Sunil (@Sunil_mv)
+@Jivraj
+- Can you please check answer choices for Q7 for GA6 where no choices are matching with the answer. The answer is coming to around 11.5 kms which is 11500 meters.
+
+Q.A wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Pine Pines Junction : (26.5596,-99.5336) ;Maple Fields Station : (26.4212,-99.4597);South Glen Crossing : (26.5962,-99.5243);Cedar Creek Retreat : (26.56,-99.4519) & Central Command Post Location: (26.4644,-99.4771) Using the Haversine package, calculate the distance from the Central Command Post to Pine Pines Junction. Which of the following is the MOST ACCURATE distance
+
+[2025-03-14T16:06:48.081Z] Shashank Tripathi (@23f3001601)
+image
+1318×377 34.2 KB
+
+what to do if 3 options have same value -0.04 and all are correct?
+
+[2025-03-15T05:54:10.148Z] Khushi Shah (@23f2005471)
+@carlton
+
+@Jivraj
+
+My question 7 for GA6 is :
+
+A wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Silver Springs Community : (42.1029,-85.665) ;Pleasant Harbor Community : (42.1238,-85.9043);Summit Shores Village : (42.0415,-85.8696);River Retreat Outpost : (42.0417,-85.6836) & Central Command Post Location: (42.0587,-85.7226) Using the Haversine package, calculate the distance from the Central Command Post to Silver Springs Community. Which of the following is the MOST ACCURATE distance
+
+Whose options provided are :
+
+10418 meters
+
+12287 meters
+
+10965 meters
+
+11149 meters
+
+However, after trying all methods out there my distance comes out to be 6873 meters, I selected 10418 as the answer (closest approximation to 6873 meters)
+
+I assume that the question must have been central command post to summit shores village (whose answer turns out to be 12287 meters)
+
+Kindly look into the question, and let me know about the same (the destination from central command post)
+
+[2025-03-15T06:40:41.714Z] Pradeep Mondal (@21f2000709)
+Have you succeeded in running the shape file for Q10? It seems to have some error.
+
+@lakshaygarg654
+
+[2025-03-15T06:52:44.163Z] LAKSHAY (@lakshaygarg654)
+No,
+
+I use google to get MTFCC code for given road segment and  after that mtfcc pdf to classify that road segment.
+
+[2025-03-15T07:29:51.684Z] Pradeep Mondal (@21f2000709)
+I  downloaded the complete shape file zip from the
+census.gov
+site.
+
+Here is the link:
+https://www2.census.gov/geo/tiger/TIGER2024/PRISECROADS/tl_2024_36_prisecroads.zip
+
+It works fine in QGIS.
+
+@lakshaygarg654
+
+[2025-03-15T07:50:50.896Z] Guddu Kumar Mishra  (@22f3001315)
+they have not provide all the files needed to read that shp file in the question .
+
+but your link includes them. thanks…
+
+[2025-03-15T09:26:43.798Z] LAKSHAY (@lakshaygarg654)
+I tried to access shapefile from official website 4-5 days ago, but server was under maintenance. I will check again Q10 after quiz 2.
+
+Thanks for sharing.
+
+[2025-03-15T15:30:01.842Z] Kumar Rishabh  (@Rishabh2)
+My question 9 for GA6 is :
+
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+Screenshot 2025-03-15 205444
+878×668 38.1 KB
+
+Screenshot 2025-03-15 205456
+1333×366 45.8 KB
+
+I solved it in colab but options are getting mismatched there…kindly clarify this issue..
+
+[2025-03-15T15:45:01.771Z] M v Sunil (@Sunil_mv)
+for the above question the options are None of these are matching and answer is around 11.5 kms
+
+3848 meters
+
+6265 meters
+
+4110 meters
+
+5106 meters
+
+[2025-03-15T18:10:33.693Z] Amala Natarajan  (@24ds3000028)
+For 7th Question in GA6 I got the answer 14265.93 Meters but the option I have in 7th are
+
+6069 meters
+
+7687 meters
+
+6106 meters
+
+7035 meters
+
+@carlton
+
+@Jivraj
+
+[2025-03-16T03:40:13.358Z] B R GIRI SUBRAHMANYA (@23f2000573)
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+for question 4, i have tried
+=forecast
+and also
+=forecast.ets
+, both of them are not working. There are two columns for years. One is year of manufacturing, another is year of registration. which one to take.
+
+for question 7, none of the options match. I am selecting the
+MOST ACCURATE
+among the given options. Hope, it is correct
+
+[2025-03-16T08:26:37.649Z] Shashannk (@23f2003413)
+Can anyone help me out on how to approach and solve the 10th question please!?
+
+[2025-03-16T14:22:53.458Z] LAKSHAY (@lakshaygarg654)
+Check the distances of other locations from the central location. One student found
+Question 7
+of the
+GA6 Option Set
+based on the distances of other points, which do not match the requirements of Question 7.
+
+[2025-03-16T15:42:32.170Z] Vidushi Singh (@vidushi)
+i have the same issue
+
+[2025-03-16T15:43:51.901Z] Vidushi Singh (@vidushi)
+yes i have the same issue
+
+and i got the same answer and am give the same options
+
+@carlton
+sir what to do?
+
+[2025-03-16T16:00:21.856Z] Vidushi Singh (@vidushi)
+@Jivraj
+
+@Saransh_Saini
+
+For 7th Question in GA6 I got the answer 14265.9275 Meters but the option I have in 7th are
+
+6069 meters
+
+7687 meters
+
+6106 meters
+
+7035 meters
+
+[2025-03-16T18:33:57.063Z] Muthupalaniappan (@Muthupalaniappan)
+Hello Sir,
+
+Can you please check if this is the right answer. As per email received from
+@carlton
+sir we should select the absolute maximum value.
+
+image
+978×393 23.3 KB
+
+Example : If we get answers as -0.3 and 0.2 then -0.3 is the right answer as it’s absolut value is maximum.
+
+For the first question the correlation matrix is as follows,
+
+image
+748×431 17.5 KB
+
+So shouldn’t it be -0.13?
+
+[2025-03-17T03:43:16.185Z] Carlton D'Silva (@carlton: Regular)
+Thanks for the colour picture.
+
+If you read the aforementioned email…
+
+Screenshot 2025-03-17 at 9.09.55 am
+1760×632 65.4 KB
+
+Kind regards (in colour
+)
+
+[2025-03-18T17:07:15.417Z] M v Sunil (@Sunil_mv)
+Thank you sir. i have got questions 1 and 2 both marked as 0.
+
+image
+962×459 29.1 KB
+
+In my case Please note the above two questions are asked to calculate pearson correlation coefficient for KTM brand and for maharashtra and Karnataka states.
+
+I have used excel to calculate the pearson correlation coefficient. Below the values I got for each question. Please verify.
+
+|pearson correlation coefficient between impact of Mileage and Price retention for kTM brand for Karnataka||
+
+-0.026685695
+
+|pearson correlation coefficient between average distance travelled and Price retention for kTM for karnataka||
+
+0.003953219
+
+|pearson correlation coefficient between average Engine capacity and Price retention for kTM for karnataka||
+
+-0.010839295
+
+|pearson correlation coefficient between impact of Mileage and Price retention for kTM brand for maharashta||
+
+0.029128825
+
+|pearson correlation coefficient between average distance travelled and Price retention for kTM for Maharashtra||
+
+0.013019585
+
+|pearson correlation coefficient between average Engine capacity and Price retention for kTM for Maharashtra||
+
+-0.056866212
+
+[2025-03-18T17:14:25.559Z] M v Sunil (@Sunil_mv)
+@Jivraj
+
+@carlton
+
+Dear sirs,
+
+I have question no 7 got marked as 0. Please check the question below and the haversine distance for the given post comes to around 11.5 kms which is not matccing with any of the options and I have selected the closest answer. please check and let me know.
+
+image
+935×529 40.1 KB
+
+[2025-03-19T17:09:05.009Z] Khushi Shah (@23f2005471)
+@carlton
+
+@Jivraj
+
+I did raise the question 2 days before the GA6 Deadline and doing so again after being marked as incorrect
+
+My question 7 was A wildfire is threatening a rural mountain region, and emergency services need to coordinate evacuation routes for four remote communities. The Emergency Management Center is located at a central command post, and must plan the most efficient evacuation route to ensure rapid and safe community evacuation. The four communities are: Silver Springs Community : (42.1029,-85.665) ;Pleasant Harbor Community : (42.1238,-85.9043);Summit Shores Village : (42.0415,-85.8696);River Retreat Outpost : (42.0417,-85.6836) & Central Command Post Location: (42.0587,-85.7226) Using the Haversine package, calculate the distance from the Central Command Post to Silver Springs Community. Which of the following is the MOST ACCURATE distance
+
+10418 meters
+
+12287 meters
+
+10965 meters
+
+11149 meters
+
+Whose right answer turned out 6873, however the answer pushed is 12287 meters, which is nowhere near the closest options (it would’ve been correct if the destination was summit shores village which isn’t the case with this question)
+
+Also, my question 4 was :
+
+As an investment analyst monitoring motorcycle resale values, develop a forecasting model to predict future resale prices by brand and segment, considering seasonality and long-term trends. Specifically, forecast the 2027 resale value of the Kawasaki - Ninja 300 in Tamil Nadu, using historical data.
+
+134483
+
+94774
+
+150666
+
+199711
+
+Whose correct option (through different methods and algorithms) was approximately closest to 94774 and again answer pushed is 150666 which again turns out to be incorrect
+
+So is the case with questions 1 and 2 (where answers aren’t pushed according to absolute values, but as conveyed earlier, I believe this shall be resolved)
+
+Kindly look into it
+
+Thanks and Regards
+
+[2025-03-20T14:49:56.474Z] PREMDEEP MAITI (@23f1001231)
+@carlton
+
+@Jivraj
+
+@Saransh_Saini
+
+In Q4 , neither which regression model to use is given nor the what random state to use is given. I tried linear regression, random forest regression but it is giving   answer which vary each time I compute, also, the option values are quite close.
+
+image
+1227×446 24 KB
+
+[2025-03-22T12:34:00.092Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+@all
+
+we are looking into problems with question 4, 6 and 10.
+
+[2025-04-11T07:29:18.139Z] Swati Kapoor (@swatikap)
+Hi,
+
+Have the corrections been done on GA6 marks?
+
+[2025-04-11T09:33:15.884Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+Yes, corrections have been done in Ga6 marks.
+
+[2025-04-11T16:31:37.494Z] Swati Kapoor (@swatikap)
+Just to confirm, were the answers shown on the portal correct because I’m getting the same score as shown in the portal.

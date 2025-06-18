@@ -1,0 +1,13 @@
+---
+id:          166738
+title:       Project structure
+created_at:  2025-02-10T16:34:02.601Z
+---
+
+[2025-02-10T16:34:02.826Z] Mishkat Chougule (@23F300327)
+@s.anand
+
+@Jivraj
+
+@carlton
+can you please provide structure of the project as it is getting very confusing, it will be very helpful and create less confusion regarding the project.

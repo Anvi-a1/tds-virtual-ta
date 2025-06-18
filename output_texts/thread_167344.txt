@@ -1,0 +1,74 @@
+---
+id:          167344
+title:       Project 1 - Casual banter
+created_at:  2025-02-15T16:55:08.372Z
+---
+
+[2025-02-15T16:55:08.372Z] Vishal Baraiya (@TheVishal)
+@s.anand
+
+@carlton
+
+@Jivraj
+
+Please extend the deadline please.
+
+88394c0c2e80a1326cfffe020684be4a
+480×270 10.3 KB
+
+[2025-02-15T16:56:02.051Z] Carlton D'Silva (@carlton: Regular)
+Done
+
+Kind regards
+
+Cant say no to a fuzzy wuzzy cat
+
+[2025-02-15T16:59:12.129Z] Ayush Tiwari (@AyushTiwari)
+Thank you very much you do not know but your 1 reply made my heart feels good
+
+(literally)
+
+[2025-02-15T16:59:38.060Z] Kumar Rishabh  (@Rishabh2)
+What’s the new date sir
+
+[2025-02-15T16:59:47.595Z] Md anas alam (@22f3000639)
+Now I can definitely say that a cat saved me today.
+
+[2025-02-15T17:00:50.465Z] Andrew David (@23f1002382)
+??? You are joking? BUT really maybe 11:59 + 2 hours
+
+[2025-02-15T17:03:30.032Z] Ayush Tiwari (@AyushTiwari)
+This project is due on 16 Feb 2025 EoD IST. Results will be announced by 26 Feb 2025.
+
+[2025-02-15T17:04:20.111Z] Carlton D'Silva (@carlton: Regular)
+Sunday 16/02/2025 23:59 IST
+
+[2025-02-15T17:07:57.722Z] Tushar Jalan  (@23f2003751)
+bro is obsessed with this
+
+[2025-02-15T18:34:57.076Z] Naga durga prasad E (@23f3004114)
+reading this at 12:01 after submitting A1 to A7 .  okay sleeping now. lets see if what i can finish tomorrow.
+
+[2025-02-15T20:20:01.955Z] Rohit Garg (@rohitgarg)
+yes Ayush, you mentioned about your
+heart and liver problems.
+
+its necessary that your heart feels good
+
+(just kidding bro
+)
+
+[2025-02-16T18:50:57.362Z] Naman S.  (@namanshyamsukha)
+It is good that the practical elements are core in the course though more time should be given for balanced approach between projects and graded assignments.
+
+There were some issues I faced. For example, the GitHub link of the datagen.py was incorrect and I was confused due to the code not generating the expected outcome.
+
+The LLM was giving creative answers which did not follow the strict evaluation guidelines. So, the case was not passed. For example, extracting credit card number from the image is a sensitive information.
+
+I am alright with it since the evaluation will be different.
+
+Now, I am really well versed with the tools taught in these weeks. Thanking the whole TDS Team for this project which was very well designed.
+
+[2025-02-19T11:01:00.149Z] Jivraj Singh Shekhawat (@Jivraj: Course TA)
+A post was split to a new topic:
+Just some background test

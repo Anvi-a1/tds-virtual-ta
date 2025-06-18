@@ -1,0 +1,40 @@
+---
+id:          171798
+title:       Repeat course
+created_at:  2025-04-05T06:12:14.503Z
+---
+
+[2025-04-05T06:12:14.723Z] Sagandeep Kaur (@Sagan)
+Even if I pass in end term TDS, Can I repeat the course in next term because I missed project1 and my CGPA will go down because of it?
+
+This is my last term of diploma. So, can I take 1 diploma course and rest degree courses in next term?
+
+[2025-04-05T06:15:08.290Z] LAKSHAY (@lakshaygarg654)
+Yes, you can.
+
+More details given in student handbook. Search for repeat courses.
+
+1000433920
+1079×398 104 KB
+
+[2025-04-05T09:14:57.220Z] Carlton D'Silva (@carlton: Regular)
+TDS is the worst subject to repeat in order to improve CGPA.
+
+Its better to take a high credit, easy course to improve CGPA.
+We never recommend taking TDS for grade improvement.
+If you have passed it, its better to move on.
+
+[2025-04-15T18:16:37.635Z] Md anas alam (@22f3000639)
+@carlton
+
+Sir, It is my humble request to kindly give atleast 2 bonus marks like any other subject, if i will get 2 marks as bonus my grade will stay good otherwise it will fall badly.
+
+Sir plzzz it is my request.
+
+[2025-04-18T04:03:39.190Z] Carlton D'Silva (@carlton: Regular)
+Just as matter of interest, even on campus IITM MTech students take foundation Python course from BS Program to artificially improve their on campus CGPA (they take it as an elective).
+
+So if the CGPA is that big a deal, do an easy 4 credit course and get an S. Dont repeat hard subjects, thats just a waste of time.
+
+[2025-04-18T04:05:12.216Z] Carlton D'Silva (@carlton: Regular)
+This is not up to us. We make adjustments within assignments and projects and we have done that already. For course level bonuses, that is the discretion of operations.

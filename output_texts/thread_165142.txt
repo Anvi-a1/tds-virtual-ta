@@ -1,0 +1,20 @@
+---
+id:          165142
+title:       GA2 deadline
+created_at:  2025-01-25T07:07:19.691Z
+---
+
+[2025-01-25T07:07:19.955Z] Shalini Saravanan (@24f2006531)
+I wanted to seek clarification regarding the deadline for GA2. The latest email received today mentions the deadline as 26th January, whereas an earlier email stated 2nd February, which is also reflected on the dashboard.
+
+Could you please confirm the correct deadline to avoid any confusion?
+
+image
+1056×289 15.4 KB
+
+[2025-01-25T09:04:53.780Z] Saransh Saini (@Saransh_Saini: Course TA)
+Deadline for GA 2 has been shifted to 2nd Feb.
+
+Regards,
+
+TDS TA
